@@ -1,6 +1,6 @@
 # TetraMesh
 
-a C++ library for the topological representation of scalar fields defined on tetrahedral meshes
+A C++ library for the topological representation of scalar fields defined on tetrahedral meshes
 
 
 TetraMesh is a c++ library for topological representation implemengint the IA data structure, originally published in:
